@@ -1,0 +1,6 @@
+li:hover{
+    text-decoration: underline;
+}
+.published:hover{
+    text-decoration: none;
+}
